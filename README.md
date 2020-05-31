@@ -15,4 +15,6 @@ Example Cases:
 
 4)Putting 1$ followed by 5$ => receive the change => getting the can
 
-5)Putting 2$ => getting the can6)Putting 5$ => receive the change => getting the can
+5)Putting 2$ => getting the can
+
+6)Putting 5$ => receive the change => getting the can
